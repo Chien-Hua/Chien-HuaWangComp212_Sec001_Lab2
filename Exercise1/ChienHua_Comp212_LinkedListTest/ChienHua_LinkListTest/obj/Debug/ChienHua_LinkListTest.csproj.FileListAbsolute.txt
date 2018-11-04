@@ -1,0 +1,10 @@
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\bin\Debug\ChienHua_LinkListTest.exe.config
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\bin\Debug\ChienHua_LinkListTest.exe
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\bin\Debug\ChienHua_LinkListTest.pdb
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\bin\Debug\ChienHuaLibrary.dll
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\bin\Debug\ChienHuaLibrary.pdb
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\obj\Debug\ChienHua_LinkListTest.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\obj\Debug\ChienHua_LinkListTest.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\obj\Debug\ChienHua_LinkListTest.csproj.CopyComplete
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\obj\Debug\ChienHua_LinkListTest.exe
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1\ChienHua_Comp212_LinkedListTest\ChienHua_LinkListTest\obj\Debug\ChienHua_LinkListTest.pdb

@@ -1,0 +1,9 @@
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1b\QueueInheritanceLibrary\QueueInheritanceLibrary\bin\Release\QueueInheritanceLibrary.dll
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1b\QueueInheritanceLibrary\QueueInheritanceLibrary\bin\Release\QueueInheritanceLibrary.pdb
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1b\QueueInheritanceLibrary\QueueInheritanceLibrary\bin\Release\ChienHuaLibrary.dll
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1b\QueueInheritanceLibrary\QueueInheritanceLibrary\bin\Release\ChienHuaLibrary.pdb
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1b\QueueInheritanceLibrary\QueueInheritanceLibrary\obj\Release\QueueInheritanceLibrary.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1b\QueueInheritanceLibrary\QueueInheritanceLibrary\obj\Release\QueueInheritanceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1b\QueueInheritanceLibrary\QueueInheritanceLibrary\obj\Release\QueueInheritanceLibrary.csproj.CopyComplete
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1b\QueueInheritanceLibrary\QueueInheritanceLibrary\obj\Release\QueueInheritanceLibrary.dll
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1b\QueueInheritanceLibrary\QueueInheritanceLibrary\obj\Release\QueueInheritanceLibrary.pdb

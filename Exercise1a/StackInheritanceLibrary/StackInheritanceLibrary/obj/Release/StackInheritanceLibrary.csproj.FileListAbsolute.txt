@@ -1,0 +1,9 @@
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1a\StackInheritanceLibrary\StackInheritanceLibrary\obj\Release\StackInheritanceLibrary.csprojAssemblyReference.cache
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1a\StackInheritanceLibrary\StackInheritanceLibrary\obj\Release\StackInheritanceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1a\StackInheritanceLibrary\StackInheritanceLibrary\bin\Release\StackInheritanceLibrary.dll
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1a\StackInheritanceLibrary\StackInheritanceLibrary\bin\Release\StackInheritanceLibrary.pdb
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1a\StackInheritanceLibrary\StackInheritanceLibrary\bin\Release\ChienHuaLibrary.dll
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1a\StackInheritanceLibrary\StackInheritanceLibrary\bin\Release\ChienHuaLibrary.pdb
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1a\StackInheritanceLibrary\StackInheritanceLibrary\obj\Release\StackInheritanceLibrary.csproj.CopyComplete
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1a\StackInheritanceLibrary\StackInheritanceLibrary\obj\Release\StackInheritanceLibrary.dll
+C:\Users\owner\Desktop\Chien-HuaWangComp212_Sec001_Lab2\Exercise1a\StackInheritanceLibrary\StackInheritanceLibrary\obj\Release\StackInheritanceLibrary.pdb
